@@ -52,17 +52,11 @@ C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhoneSimulator\Debug
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhoneSimulator\Debug\Lands.dll
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhoneSimulator\Debug\Lands.pdb
-C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhoneSimulator\Debug\Lands.dll.mdb
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
-C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\obj\iPhoneSimulator\Debug\optimized\background.png
-C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\obj\iPhoneSimulator\Debug\optimized\onu.png
-C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\obj\iPhoneSimulator\Debug\optimized\facebook_logo.png
-C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\obj\iPhoneSimulator\Debug\optimized\instagram_logo.png
-C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\obj\iPhoneSimulator\Debug\optimized\twitter_logo.png
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\obj\iPhoneSimulator\Debug\optimized\
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\obj\iPhoneSimulator\Debug\Lands.iOS.csprojAssemblyReference.cache
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\obj\iPhoneSimulator\Debug\Lands.iOS.csproj.CoreCompileInputs.cache

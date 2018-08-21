@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-20T17:46:11.575</Modified>
+      <Modified>2018-08-21T17:53:29.459</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\bin\x86\Debug\Lands.UWP.exe">
       <PackagePath>entrypoint\Lands.UWP.exe</PackagePath>
-      <Modified>2018-08-20T17:45:26.060</Modified>
+      <Modified>2018-08-21T17:53:28.530</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\.nuget\packages\mvvmlightlibsstd10\5.4.1\lib\uap10.0\GalaSoft.MvvmLight.Platform.dll">
       <PackagePath>GalaSoft.MvvmLight.Platform.dll</PackagePath>
@@ -733,174 +733,174 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\bin\Debug\netstandard2.0\Lands.dll">
       <PackagePath>Lands.dll</PackagePath>
-      <Modified>2018-08-20T17:44:45.916</Modified>
+      <Modified>2018-08-21T17:53:22.785</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-06T13:37:08.478</Modified>
+      <Modified>2018-08-20T19:45:02.342</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-06T13:37:08.481</Modified>
+      <Modified>2018-08-20T19:45:02.343</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-06T13:37:08.523</Modified>
+      <Modified>2018-08-20T19:45:02.344</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-06T13:37:08.528</Modified>
+      <Modified>2018-08-20T19:45:02.345</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-06T13:37:08.530</Modified>
+      <Modified>2018-08-20T19:45:02.345</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-06T13:37:08.532</Modified>
+      <Modified>2018-08-20T19:45:02.346</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-06T13:37:08.535</Modified>
+      <Modified>2018-08-20T19:45:02.347</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-06T13:37:08.544</Modified>
+      <Modified>2018-08-20T19:45:02.347</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-06T13:37:08.812</Modified>
+      <Modified>2018-08-20T19:45:02.348</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-06T13:37:08.814</Modified>
+      <Modified>2018-08-20T19:45:02.349</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-06T13:37:08.821</Modified>
+      <Modified>2018-08-20T19:45:02.350</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-06T13:37:08.824</Modified>
+      <Modified>2018-08-20T19:45:02.351</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-06T13:37:08.827</Modified>
+      <Modified>2018-08-20T19:45:02.352</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-06T13:37:08.830</Modified>
+      <Modified>2018-08-20T19:45:02.352</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-06T13:37:08.834</Modified>
+      <Modified>2018-08-20T19:45:02.353</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-06T13:37:08.854</Modified>
+      <Modified>2018-08-20T19:45:02.354</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-06T13:37:08.857</Modified>
+      <Modified>2018-08-20T19:45:02.354</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-06T13:37:08.859</Modified>
+      <Modified>2018-08-20T19:45:02.355</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-06T13:37:08.863</Modified>
+      <Modified>2018-08-20T19:45:02.356</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-06T13:37:08.865</Modified>
+      <Modified>2018-08-20T19:45:02.356</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-06T13:37:08.868</Modified>
+      <Modified>2018-08-20T19:45:02.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-06T13:37:08.874</Modified>
+      <Modified>2018-08-20T19:45:02.358</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-06T13:37:09.128</Modified>
+      <Modified>2018-08-20T19:45:02.359</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-06T13:37:09.130</Modified>
+      <Modified>2018-08-20T19:45:02.360</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-06T13:37:09.136</Modified>
+      <Modified>2018-08-20T19:45:02.360</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-06T13:37:09.139</Modified>
+      <Modified>2018-08-20T19:45:02.361</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-06T13:37:09.142</Modified>
+      <Modified>2018-08-20T19:45:02.362</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\facebook_logo.png">
       <PackagePath>facebook_logo.png</PackagePath>
-      <Modified>2018-08-07T02:32:41.998</Modified>
+      <Modified>2018-08-20T19:45:03.109</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\instagram_logo.png">
       <PackagePath>instagram_logo.png</PackagePath>
-      <Modified>2018-08-07T02:32:42.004</Modified>
+      <Modified>2018-08-20T19:45:03.109</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\onu.png">
       <PackagePath>onu.png</PackagePath>
-      <Modified>2018-08-06T18:34:48.303</Modified>
+      <Modified>2018-08-20T19:45:05.023</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\twitter_logo.png">
       <PackagePath>twitter_logo.png</PackagePath>
-      <Modified>2018-08-07T02:32:42.010</Modified>
+      <Modified>2018-08-20T19:45:05.958</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2018-08-06T13:37:09.148</Modified>
+      <Modified>2018-08-20T19:45:02.366</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\bin\x86\Debug\Lands.UWP.xr.xml">
       <PackagePath>Lands.UWP.xr.xml</PackagePath>
-      <Modified>2018-08-06T15:25:06.365</Modified>
+      <Modified>2018-08-20T19:45:03.709</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2018-08-20T17:45:25.287</Modified>
+      <Modified>2018-08-21T17:53:28.320</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2018-08-20T17:45:25.290</Modified>
+      <Modified>2018-08-21T17:53:28.320</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -953,11 +953,11 @@
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-20T17:45:52.937</Modified>
+      <Modified>2018-08-21T17:47:59.136</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\bin\x86\Debug\Core\Lands.UWP.exe">
       <PackagePath>Lands.UWP.exe</PackagePath>
-      <Modified>2018-08-20T17:46:11.569</Modified>
+      <Modified>2018-08-21T17:53:29.453</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
