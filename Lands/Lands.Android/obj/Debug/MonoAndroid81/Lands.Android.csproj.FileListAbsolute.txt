@@ -32,6 +32,11 @@ C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\res\drawable\facebook_logo.png
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\res\drawable\instagram_logo.png
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\res\drawable\twitter_logo.png
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\res\drawable\ic_chevron_right.png
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\res\drawable-hdpi\ic_chevron_right.png
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\res\drawable-xhdpi\ic_chevron_right.png
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\res\drawable-xxhdpi\ic_chevron_right.png
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\res\drawable-xxxhdpi\ic_chevron_right.png
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\R.cs.flag
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\R.txt
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\uploadflags.txt
@@ -116,14 +121,7 @@ C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.pdb
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Xaml.pdb
-C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\res\drawable\ic_chevron_right.png
-C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\res\drawable-hdpi\ic_chevron_right.png
-C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\res\drawable-xhdpi\ic_chevron_right.png
-C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\res\drawable-xxhdpi\ic_chevron_right.png
-C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\res\drawable-xxxhdpi\ic_chevron_right.png
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\bin\Debug\Lands.Android.dll
-C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\bin\Debug\netstandard2.0\Lands.dll
-C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\bin\Debug\Lands.dll.mdb
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\linksrc\Lands.Android.dll.mdb
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\linksrc\FormsViewGroup.dll.mdb
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\linksrc\GalaSoft.MvvmLight.Platform.dll.mdb

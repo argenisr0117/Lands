@@ -2,18 +2,21 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Lands.Views.LandsPage"
+             BackgroundColor="LightGray"
              BindingContext="{Binding Main, Source={StaticResource Locator}}"
              Title="Lands">
     <ContentPage.Content>
         <StackLayout
             BindingContext="{Binding Lands}">
             <SearchBar
+                BackgroundColor="LightGray"
                 Text="{Binding Filter, Mode=TwoWay}"
                 Placeholder="Search..."
                 SearchCommand="{Binding SearchCommand}">
             </SearchBar>
-            <ListView 
-                HasUnevenRows="true" 
+            <ListView
+                BackgroundColor="LightGray"
+                HasUnevenRows="true"               
                 IsPullToRefreshEnabled="true"
                 IsRefreshing="{Binding IsRefreshing, Mode=TwoWay}"
                 ItemsSource="{Binding Lands}"
@@ -22,6 +25,15 @@
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>
+                            <Frame
+                                CornerRadius="10"
+                                HasShadow="True"
+                                Margin="3">
+                                <Frame.GestureRecognizers>
+                                    <TapGestureRecognizer
+                                        Command="{Binding SelectLandCommand}">
+                                    </TapGestureRecognizer>
+                                </Frame.GestureRecognizers>
                                 <Grid>
                                     <Grid.ColumnDefinitions>
                                         <ColumnDefinition Width="Auto"/>
@@ -48,6 +60,7 @@
                                         Source="ic_chevron_right">
                                     </Image>
                                 </Grid>
+                            </Frame>
                         </ViewCell>
                     </DataTemplate>
                 </ListView.ItemTemplate>
