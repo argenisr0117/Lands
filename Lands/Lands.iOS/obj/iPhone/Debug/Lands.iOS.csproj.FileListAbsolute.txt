@@ -64,3 +64,4 @@ C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhone\Debug\Plugin.C
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhone\Debug\Plugin.Connectivity.Abstractions.pdb
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhone\Debug\Plugin.Connectivity.dll
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhone\Debug\Plugin.Connectivity.pdb
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhone\Debug\Lands.dll.mdb
