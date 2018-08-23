@@ -12,3 +12,4 @@ C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Xaml
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.dll
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.pdb
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Views\LandPage.xaml.g.cs
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.csprojAssemblyReference.cache
