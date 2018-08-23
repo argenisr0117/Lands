@@ -926,34 +926,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Argenis-PC\\.nuget\\packages\\": {}
+    "/Users/argenis/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Argenis-PC\\source\\repos\\lands\\Lands\\Lands.Android\\Lands.Android.csproj",
+      "projectUniqueName": "/Users/argenis/Documents/GitHub/lands/Lands/Lands.Android/Lands.Android.csproj",
       "projectName": "Lands.Android",
-      "projectPath": "C:\\Users\\Argenis-PC\\source\\repos\\lands\\Lands\\Lands.Android\\Lands.Android.csproj",
-      "packagesPath": "C:\\Users\\Argenis-PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Argenis-PC\\source\\repos\\lands\\Lands\\Lands.Android\\obj\\",
+      "projectPath": "/Users/argenis/Documents/GitHub/lands/Lands/Lands.Android/Lands.Android.csproj",
+      "packagesPath": "/Users/argenis/.nuget/packages/",
+      "outputPath": "/Users/argenis/Documents/GitHub/lands/Lands/Lands.Android/obj",
       "projectStyle": "PackageReference",
-      "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\Argenis-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/argenis/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid81"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\Users\\Argenis-PC\\source\\repos\\lands\\Lands\\Lands\\Lands.csproj": {
-              "projectPath": "C:\\Users\\Argenis-PC\\source\\repos\\lands\\Lands\\Lands\\Lands.csproj"
+            "/Users/argenis/Documents/GitHub/lands/Lands/Lands/Lands.csproj": {
+              "projectPath": "/Users/argenis/Documents/GitHub/lands/Lands/Lands/Lands.csproj"
             }
           }
         }
@@ -964,31 +961,31 @@
         "dependencies": {
           "Xam.Plugin.Connectivity": {
             "target": "Package",
-            "version": "[3.2.0, )"
-          },
-          "Xamarin.Android.Support.Design": {
-            "target": "Package",
-            "version": "[27.0.2, )"
-          },
-          "Xamarin.Android.Support.v4": {
-            "target": "Package",
-            "version": "[27.0.2, )"
-          },
-          "Xamarin.Android.Support.v7.AppCompat": {
-            "target": "Package",
-            "version": "[27.0.2, )"
-          },
-          "Xamarin.Android.Support.v7.CardView": {
-            "target": "Package",
-            "version": "[27.0.2, )"
-          },
-          "Xamarin.Android.Support.v7.MediaRouter": {
-            "target": "Package",
-            "version": "[27.0.2, )"
+            "version": "3.2.0"
           },
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "[3.0.0.561731, )"
+            "version": "3.0.0.561731"
+          },
+          "Xamarin.Android.Support.Design": {
+            "target": "Package",
+            "version": "27.0.2"
+          },
+          "Xamarin.Android.Support.v7.AppCompat": {
+            "target": "Package",
+            "version": "27.0.2"
+          },
+          "Xamarin.Android.Support.v4": {
+            "target": "Package",
+            "version": "27.0.2"
+          },
+          "Xamarin.Android.Support.v7.CardView": {
+            "target": "Package",
+            "version": "27.0.2"
+          },
+          "Xamarin.Android.Support.v7.MediaRouter": {
+            "target": "Package",
+            "version": "27.0.2"
           }
         }
       }
