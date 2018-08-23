@@ -13,11 +13,16 @@ namespace Lands.ViewModels
 
         public LandsViewModel Lands
         { get; set; }
+
+        public LandViewModel Land
+        { get; set; }
+
         #endregion
 
         #region Constructors
         public MainViewModel()
         {
+            instance = this;
             this.Login = new LoginViewModel();
         }
         #endregion
