@@ -985,34 +985,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Argenis-PC\\.nuget\\packages\\": {}
+    "/Users/argenis/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Argenis-PC\\source\\repos\\lands\\Lands\\Lands.iOS\\Lands.iOS.csproj",
+      "projectUniqueName": "/Users/argenis/Documents/GitHub/lands/Lands/Lands.iOS/Lands.iOS.csproj",
       "projectName": "Lands.iOS",
-      "projectPath": "C:\\Users\\Argenis-PC\\source\\repos\\lands\\Lands\\Lands.iOS\\Lands.iOS.csproj",
-      "packagesPath": "C:\\Users\\Argenis-PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Argenis-PC\\source\\repos\\lands\\Lands\\Lands.iOS\\obj\\",
+      "projectPath": "/Users/argenis/Documents/GitHub/lands/Lands/Lands.iOS/Lands.iOS.csproj",
+      "packagesPath": "/Users/argenis/.nuget/packages/",
+      "outputPath": "/Users/argenis/Documents/GitHub/lands/Lands/Lands.iOS/obj",
       "projectStyle": "PackageReference",
-      "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\Argenis-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/argenis/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Argenis-PC\\source\\repos\\lands\\Lands\\Lands\\Lands.csproj": {
-              "projectPath": "C:\\Users\\Argenis-PC\\source\\repos\\lands\\Lands\\Lands\\Lands.csproj"
+            "/Users/argenis/Documents/GitHub/lands/Lands/Lands/Lands.csproj": {
+              "projectPath": "/Users/argenis/Documents/GitHub/lands/Lands/Lands/Lands.csproj"
             }
           }
         }
@@ -1023,11 +1020,11 @@
         "dependencies": {
           "Xam.Plugin.Connectivity": {
             "target": "Package",
-            "version": "[3.2.0, )"
+            "version": "3.2.0"
           },
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "[3.0.0.561731, )"
+            "version": "3.0.0.561731"
           }
         }
       }
