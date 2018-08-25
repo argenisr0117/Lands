@@ -4,12 +4,50 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     x:Class="Lands.Views.LanguagesPage" 
     BindingContext="{Binding Main, Source={StaticResource Locator}}"
+    Icon="ic_language"
     Title="Languages">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+        <StackLayout
+            BindingContext="{Binding Land}"
+            Padding="5">
+            <Label
+                FontAttributes="Bold"
+                FontSize="Large"
+                HorizontalTextAlignment="Center"
+                Margin="0,5"
+                Text="{Binding Land.Name}"
+                TextColor="Black">
+            </Label>
+            <ListView
+                HasUnevenRows="True"
+                HorizontalOptions="Center"
+                ItemsSource="{Binding Languages}"
+                SeparatorVisibility="None">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"></ColumnDefinition>
+                                    <ColumnDefinition Width="2*"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <Label
+                                    Grid.Column="0"
+                                    HorizontalTextAlignment="Center"
+                                    Text="{Binding Name}"
+                                    TextColor="Black">
+                                </Label>
+                                <Label
+                                    Grid.Column="1"
+                                    HorizontalTextAlignment="Center"                                    
+                                    Text="{Binding NativeName}"
+                                    TextColor="Black">
+                                </Label>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

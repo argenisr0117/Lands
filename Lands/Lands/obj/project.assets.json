@@ -98,6 +98,7 @@
       "files": [
         "lib/monoandroid1/GalaSoft.MvvmLight.Platform.XML",
         "lib/monoandroid1/GalaSoft.MvvmLight.Platform.dll",
+        "lib/monoandroid1/GalaSoft.MvvmLight.Platform.dll.mdb",
         "lib/monoandroid1/GalaSoft.MvvmLight.Platform.pdb",
         "lib/monoandroid1/GalaSoft.MvvmLight.XML",
         "lib/monoandroid1/GalaSoft.MvvmLight.dll",
@@ -292,6 +293,7 @@
         "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.pdb",
         "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.xml",
         "lib/MonoAndroid10/Plugin.Connectivity.dll",
+        "lib/MonoAndroid10/Plugin.Connectivity.dll.mdb",
         "lib/MonoAndroid10/Plugin.Connectivity.pdb",
         "lib/MonoAndroid10/Plugin.Connectivity.xml",
         "lib/UAP10/Plugin.Connectivity.Abstractions.dll",
@@ -312,6 +314,7 @@
         "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.pdb",
         "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.xml",
         "lib/Xamarin.iOS10/Plugin.Connectivity.dll",
+        "lib/Xamarin.iOS10/Plugin.Connectivity.dll.mdb",
         "lib/Xamarin.iOS10/Plugin.Connectivity.pdb",
         "lib/Xamarin.iOS10/Plugin.Connectivity.xml",
         "lib/XamarinTVOS/Plugin.Connectivity.Abstractions.dll",
@@ -406,6 +409,7 @@
         "lib/Xamarin.iOS10/Xamarin.Forms.Core.xml",
         "lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll",
         "lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll",
+        "lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll.mdb",
         "lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.pdb",
         "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll",
         "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.pdb",
@@ -509,28 +513,30 @@
     ]
   },
   "packageFolders": {
-    "/Users/argenis/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Argenis-PC\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/argenis/Documents/GitHub/lands/Lands/Lands/Lands.csproj",
+      "projectUniqueName": "C:\\Users\\Argenis-PC\\source\\repos\\lands\\Lands\\Lands\\Lands.csproj",
       "projectName": "Lands",
-      "projectPath": "/Users/argenis/Documents/GitHub/lands/Lands/Lands/Lands.csproj",
-      "packagesPath": "/Users/argenis/.nuget/packages/",
-      "outputPath": "/Users/argenis/Documents/GitHub/lands/Lands/Lands/obj",
+      "projectPath": "C:\\Users\\Argenis-PC\\source\\repos\\lands\\Lands\\Lands\\Lands.csproj",
+      "packagesPath": "C:\\Users\\Argenis-PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Argenis-PC\\source\\repos\\lands\\Lands\\Lands\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/argenis/.config/NuGet/NuGet.Config"
+        "C:\\Users\\Argenis-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -547,27 +553,27 @@
     "frameworks": {
       "netstandard2.0": {
         "dependencies": {
+          "MvvmLightLibsStd10": {
+            "target": "Package",
+            "version": "[5.4.1, )"
+          },
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.3",
+            "version": "[2.0.3, )",
             "autoReferenced": true
-          },
-          "MvvmLightLibsStd10": {
-            "target": "Package",
-            "version": "5.4.1"
           },
           "Newtonsoft.Json": {
             "target": "Package",
-            "version": "11.0.2"
+            "version": "[11.0.2, )"
           },
           "Xam.Plugin.Connectivity": {
             "target": "Package",
-            "version": "3.2.0"
+            "version": "[3.2.0, )"
           },
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "3.0.0.561731"
+            "version": "[3.0.0.561731, )"
           }
         },
         "imports": [

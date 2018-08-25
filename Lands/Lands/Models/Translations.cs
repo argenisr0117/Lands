@@ -1,6 +1,7 @@
 ﻿namespace Lands.Models
 {
     using Newtonsoft.Json;
+
     public class Translations
     {
         [JsonProperty(PropertyName = "de")]

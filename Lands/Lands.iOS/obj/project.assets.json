@@ -698,6 +698,7 @@
       "files": [
         "lib/monoandroid1/GalaSoft.MvvmLight.Platform.XML",
         "lib/monoandroid1/GalaSoft.MvvmLight.Platform.dll",
+        "lib/monoandroid1/GalaSoft.MvvmLight.Platform.dll.mdb",
         "lib/monoandroid1/GalaSoft.MvvmLight.Platform.pdb",
         "lib/monoandroid1/GalaSoft.MvvmLight.XML",
         "lib/monoandroid1/GalaSoft.MvvmLight.dll",
@@ -765,6 +766,7 @@
         "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.pdb",
         "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.xml",
         "lib/MonoAndroid10/Plugin.Connectivity.dll",
+        "lib/MonoAndroid10/Plugin.Connectivity.dll.mdb",
         "lib/MonoAndroid10/Plugin.Connectivity.pdb",
         "lib/MonoAndroid10/Plugin.Connectivity.xml",
         "lib/UAP10/Plugin.Connectivity.Abstractions.dll",
@@ -785,6 +787,7 @@
         "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.pdb",
         "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.xml",
         "lib/Xamarin.iOS10/Plugin.Connectivity.dll",
+        "lib/Xamarin.iOS10/Plugin.Connectivity.dll.mdb",
         "lib/Xamarin.iOS10/Plugin.Connectivity.pdb",
         "lib/Xamarin.iOS10/Plugin.Connectivity.xml",
         "lib/XamarinTVOS/Plugin.Connectivity.Abstractions.dll",
@@ -879,6 +882,7 @@
         "lib/Xamarin.iOS10/Xamarin.Forms.Core.xml",
         "lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll",
         "lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll",
+        "lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll.mdb",
         "lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.pdb",
         "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll",
         "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.pdb",
@@ -985,31 +989,34 @@
     ]
   },
   "packageFolders": {
-    "/Users/argenis/.nuget/packages/": {}
+    "C:\\Users\\Argenis-PC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/argenis/Documents/GitHub/lands/Lands/Lands.iOS/Lands.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Argenis-PC\\source\\repos\\lands\\Lands\\Lands.iOS\\Lands.iOS.csproj",
       "projectName": "Lands.iOS",
-      "projectPath": "/Users/argenis/Documents/GitHub/lands/Lands/Lands.iOS/Lands.iOS.csproj",
-      "packagesPath": "/Users/argenis/.nuget/packages/",
-      "outputPath": "/Users/argenis/Documents/GitHub/lands/Lands/Lands.iOS/obj",
+      "projectPath": "C:\\Users\\Argenis-PC\\source\\repos\\lands\\Lands\\Lands.iOS\\Lands.iOS.csproj",
+      "packagesPath": "C:\\Users\\Argenis-PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Argenis-PC\\source\\repos\\lands\\Lands\\Lands.iOS\\obj\\",
       "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/argenis/.config/NuGet/NuGet.Config"
+        "C:\\Users\\Argenis-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/argenis/Documents/GitHub/lands/Lands/Lands/Lands.csproj": {
-              "projectPath": "/Users/argenis/Documents/GitHub/lands/Lands/Lands/Lands.csproj"
+            "C:\\Users\\Argenis-PC\\source\\repos\\lands\\Lands\\Lands\\Lands.csproj": {
+              "projectPath": "C:\\Users\\Argenis-PC\\source\\repos\\lands\\Lands\\Lands\\Lands.csproj"
             }
           }
         }
@@ -1020,11 +1027,11 @@
         "dependencies": {
           "Xam.Plugin.Connectivity": {
             "target": "Package",
-            "version": "3.2.0"
+            "version": "[3.2.0, )"
           },
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "3.0.0.561731"
+            "version": "[3.0.0.561731, )"
           }
         }
       }
