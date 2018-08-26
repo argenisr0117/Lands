@@ -64,3 +64,17 @@ C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\obj\iPhoneSimulator\Debug
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\obj\iPhoneSimulator\Debug\Lands.iOS.csproj.CopyComplete
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\obj\iPhoneSimulator\Debug\Lands.iOS.exe
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\obj\iPhoneSimulator\Debug\Lands.iOS.pdb
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.dll
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhoneSimulator\Debug\WebP.Touch.dll
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Platform.dll
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Platform.pdb
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.dll
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.pdb
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Forms.Platform.dll
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Forms.Platform.pdb
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Forms.dll
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Forms.pdb
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Svg.Platform.dll
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Svg.Platform.pdb
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Svg.Forms.dll
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Svg.Forms.pdb

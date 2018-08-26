@@ -107,6 +107,12 @@ class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "Lands.Android.dll" comes first in this list. */
 		"Lands.Android.dll",
+		"FFImageLoading.dll",
+		"FFImageLoading.Forms.dll",
+		"FFImageLoading.Forms.Platform.dll",
+		"FFImageLoading.Platform.dll",
+		"FFImageLoading.Svg.Forms.dll",
+		"FFImageLoading.Svg.Platform.dll",
 		"FormsViewGroup.dll",
 		"GalaSoft.MvvmLight.dll",
 		"GalaSoft.MvvmLight.Platform.dll",
@@ -114,6 +120,7 @@ class MonoPackageManager_Resources {
 		"Newtonsoft.Json.dll",
 		"Plugin.Connectivity.Abstractions.dll",
 		"Plugin.Connectivity.dll",
+		"SkiaSharp.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",
 		"Xamarin.Android.Arch.Lifecycle.Runtime.dll",

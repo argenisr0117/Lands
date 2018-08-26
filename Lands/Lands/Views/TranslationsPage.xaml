@@ -22,6 +22,7 @@
                     <ColumnDefinition Width="2*"/>
                 </Grid.ColumnDefinitions>
                 <Label
+                    FontAttributes="Bold"
                     Grid.Column="0"
                     Grid.Row="0"
                     Text="Germany:"
@@ -30,124 +31,123 @@
                 <Label
                     Grid.Column="1"
                     Grid.Row="0"
-                    FontAttributes="Bold"
                     Text="{Binding Land.Translations.Germany}"
                     TextColor="Black">
                 </Label>
                 <Label
+                    FontAttributes="Bold"                    
                     Grid.Column="0"
                     Grid.Row="1"
-                    Text="Spanish"
+                    Text="Spanish:"
                     TextColor="Black">
                 </Label>
                 <Label
                     Grid.Column="1"
                     Grid.Row="1"
-                    FontAttributes="Bold"
                     Text="{Binding Land.Translations.Spanish}"
                     TextColor="Black">
                 </Label>
                 <Label
+                    FontAttributes="Bold"
                     Grid.Column="0"
                     Grid.Row="2"
-                    Text="French"
+                    Text="French:"
                     TextColor="Black">
                 </Label>
                 <Label
                     Grid.Column="1"
                     Grid.Row="2"
-                    FontAttributes="Bold"
                     Text="{Binding Land.Translations.French}"
                     TextColor="Black">
                 </Label>
                 <Label
+                    FontAttributes="Bold"
                     Grid.Column="0"
                     Grid.Row="3"
-                    Text="Japanese"
+                    Text="Japanese:"
                     TextColor="Black">
                 </Label>
                 <Label
                     Grid.Column="1"
                     Grid.Row="3"
-                    FontAttributes="Bold"
                     Text="{Binding Land.Translations.Japanese}"
                     TextColor="Black">
                 </Label>
                 <Label
+                    FontAttributes="Bold"
                     Grid.Column="0"
                     Grid.Row="4"
-                    Text="Italian"
+                    Text="Italian:"
                     TextColor="Black">
                 </Label>
                 <Label
                     Grid.Column="1"
                     Grid.Row="4"
-                    FontAttributes="Bold"
                     Text="{Binding Land.Translations.Italian}"
                     TextColor="Black">
                 </Label>
                 <Label
+                    FontAttributes="Bold"
                     Grid.Column="0"
                     Grid.Row="5"
-                    Text="Brazilian"
+                    Text="Brazilian:"
                     TextColor="Black">
                 </Label>
                 <Label
                     Grid.Column="1"
                     Grid.Row="5"
-                    FontAttributes="Bold"
                     Text="{Binding Land.Translations.Brazilian}"
                     TextColor="Black">
                 </Label>
                 <Label
+                    FontAttributes="Bold"
                     Grid.Column="0"
                     Grid.Row="6"
-                    Text="Portuguese"
+                    Text="Portuguese:"
                     TextColor="Black">
                 </Label>
                 <Label
                     Grid.Column="1"
                     Grid.Row="6"
-                    FontAttributes="Bold"
                     Text="{Binding Land.Translations.Portuges}"
                     TextColor="Black">
                 </Label>
                 <Label
+                    FontAttributes="Bold"
                     Grid.Column="0"
                     Grid.Row="7"
-                    Text="Dutch"
+                    Text="Dutch:"
                     TextColor="Black">
                 </Label>
                 <Label
                     Grid.Column="1"
                     Grid.Row="7"
-                    FontAttributes="Bold"
                     Text="{Binding Land.Translations.Dutch}"
                     TextColor="Black">
                 </Label>
                 <Label
+                    FontAttributes="Bold"
                     Grid.Column="0"
                     Grid.Row="8"
-                    Text="Croatian"
+                    Text="Croatian:"
                     TextColor="Black">
                 </Label>
                 <Label
                     Grid.Column="1"
                     Grid.Row="8"
-                    FontAttributes="Bold"
                     Text="{Binding Land.Translations.Croatian}"
                     TextColor="Black">
                 </Label>
                 <Label
+                    FontAttributes="Bold"
                     Grid.Column="0"
                     Grid.Row="9"
-                    Text="Persian"
+                    Text="Persian:"
                     TextColor="Black">
                 </Label>
                 <Label
                     Grid.Column="1"
                     Grid.Row="9"
-                    FontAttributes="Bold"
                     Text="{Binding Land.Translations.Persian}"
                     TextColor="Black">
                 </Label>

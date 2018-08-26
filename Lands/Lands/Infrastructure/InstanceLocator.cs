@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using Lands.ViewModels;
-namespace Lands.Infrastructure
+﻿namespace Lands.Infrastructure
 {
+    using Lands.ViewModels;
     class InstanceLocator
     {
         #region Properties
