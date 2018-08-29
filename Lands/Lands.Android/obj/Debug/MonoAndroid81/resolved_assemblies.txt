@@ -16,8 +16,12 @@ C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\Plugin.Connectivity.Abstractions.dll
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\Plugin.Connectivity.dll
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\SkiaSharp.dll
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\System.Configuration.ConfigurationManager.dll
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\System.Core.dll
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\System.dll
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\System.Security.AccessControl.dll
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\System.Security.Permissions.dll
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\System.Security.Principal.Windows.dll
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.dll
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.Linq.dll
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Arch.Core.Common.dll
@@ -82,4 +86,12 @@ C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\System.Security.SecureString.dll
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\System.Web.Services.dll
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.XPath.XDocument.dll
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\Lands.Domain.dll
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\EntityFramework.dll
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\System.Configuration.dll
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\System.Security.dll
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\Mono.Security.dll
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\System.ComponentModel.DataAnnotations.dll
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\Microsoft.CSharp.dll
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\linksrc\es\Lands.resources.dll

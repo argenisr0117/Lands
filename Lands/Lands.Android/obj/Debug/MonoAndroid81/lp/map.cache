@@ -12,7 +12,12 @@ Newtonsoft.Json
 Plugin.Connectivity.Abstractions
 Plugin.Connectivity
 SkiaSharp
+System.Configuration.ConfigurationManager
+System.Configuration
 System.Runtime
+System.Security.AccessControl
+System.Security.Permissions
+System.Security.Principal.Windows
 Xamarin.Android.Arch.Core.Common
 Xamarin.Android.Arch.Lifecycle.Common
 Xamarin.Android.Arch.Lifecycle.Runtime
@@ -37,5 +42,7 @@ Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
 Xamarin.Forms.Xaml
 netstandard
+Lands.Domain
 System.Reflection.Extensions
 System.Resources.ResourceManager
+EntityFramework

@@ -17,3 +17,15 @@ C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Land
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.dll
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.pdb
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.csprojAssemblyReference.cache
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\bin\Debug\netstandard2.0\es\Lands.resources.dll
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.Resources.Resource.resources
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.Resources.Resource.es.resources
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.csproj.GenerateResource.cache
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\es\Lands.resources.dll
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\bin\Debug\netstandard2.0\Lands.Domain.dll
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\bin\Debug\netstandard2.0\EntityFramework.dll
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\bin\Debug\netstandard2.0\Lands.Domain.pdb
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\bin\Debug\netstandard2.0\Lands.Domain.dll.config
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\bin\Debug\netstandard2.0\EntityFramework.xml
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.csproj.CopyComplete

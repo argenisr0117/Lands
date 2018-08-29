@@ -580,6 +580,18 @@
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\bin\Debug\netstandard2.0\Lands.dll">
       <PackagePath>Lands.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\bin\Debug\netstandard2.0\Lands.Domain.dll">
+      <PackagePath>Lands.Domain.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\bin\Debug\netstandard2.0\EntityFramework.dll">
+      <PackagePath>EntityFramework.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\bin\Debug\netstandard2.0\es\Lands.resources.dll">
+      <PackagePath>es\Lands.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\bin\Debug\netstandard2.0\Lands.Domain.dll.config">
+      <PackagePath>Lands.Domain.dll.config</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>

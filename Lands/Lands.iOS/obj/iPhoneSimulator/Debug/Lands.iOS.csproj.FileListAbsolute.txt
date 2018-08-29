@@ -78,3 +78,9 @@ C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhoneSimulator\Debug
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Svg.Platform.pdb
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Svg.Forms.dll
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Svg.Forms.pdb
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhoneSimulator\Debug\Lands.Domain.dll
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhoneSimulator\Debug\EntityFramework.dll
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhoneSimulator\Debug\Lands.Domain.pdb
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhoneSimulator\Debug\Lands.Domain.dll.config
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhoneSimulator\Debug\EntityFramework.xml
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.iOS\bin\iPhoneSimulator\Debug\es\Lands.resources.dll

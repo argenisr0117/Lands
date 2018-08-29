@@ -325,3 +325,13 @@ C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\bin\x86\Debug\FFImageLoad
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\bin\x86\Debug\FFImageLoading.Svg.Platform.pdb
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\bin\x86\Debug\FFImageLoading.Svg.Forms.dll
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\bin\x86\Debug\FFImageLoading.Svg.Forms.pdb
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\bin\x86\Debug\Lands.Domain.dll
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\bin\x86\Debug\EntityFramework.dll
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\bin\x86\Debug\Lands.Domain.pdb
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\bin\x86\Debug\Lands.Domain.dll.config
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\bin\x86\Debug\EntityFramework.xml
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\bin\x86\Debug\es\Lands.resources.dll
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\obj\x86\Debug\EntityFramework\en-US\System.Data.Entity.Properties.Resources.resw
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\obj\x86\Debug\EntityFramework\en-US\System.Data.Entity.Properties.Resources.Migrate.resw
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\obj\x86\Debug\EntityFramework\en-US\System.Data.Entity.Properties.Resources.PowerShell.resw
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.UWP\obj\x86\Debug\Lands\es\Lands.Resources.Resource.resw

@@ -7,6 +7,12 @@
     BindingContext="{Binding Main, Source={StaticResource Locator}}"
     Icon="ic_info"
     Title="Information">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <ffimageloadingsvg:SvgImageSourceConverter 
+                x:Key="SvgImageSourceConverter"/>
+        </ResourceDictionary>
+    </ContentPage.Resources>
     <ContentPage.Content>
         <ScrollView
             BindingContext="{Binding Land}">
@@ -19,7 +25,8 @@
                     Text="{Binding Land.Name}"
                     TextColor="Black">
                 </Label>
-                <ffimageloadingsvg:SvgCachedImage WidthRequest="100" HeightRequest="100" Source="{Binding Land.Flag}"/>
+                <ffimageloadingsvg:SvgCachedImage Source="{Binding Land.Flag, 
+                    Converter={StaticResource SvgImageSourceConverter}}"/>
                 <Grid>
                     <Grid.ColumnDefinitions>
                         <ColumnDefinition Width="*"></ColumnDefinition>

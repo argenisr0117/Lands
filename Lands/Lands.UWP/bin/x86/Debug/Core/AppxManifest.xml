@@ -21,6 +21,7 @@
   </Dependencies>
   <Resources>
     <Resource Language="EN-US" />
+    <Resource Language="ES" />
   </Resources>
   <Applications>
     <Application Id="App" Executable="Lands.UWP.exe" EntryPoint="Lands.UWP.App">

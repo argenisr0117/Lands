@@ -425,6 +425,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Lands.Domain": "1.0.0",
           "MvvmLightLibsStd10": "5.4.1",
           "Newtonsoft.Json": "11.0.2",
           "Xam.Plugin.Connectivity": "3.2.0",
@@ -437,6 +438,15 @@
         },
         "runtime": {
           "bin/placeholder/Lands.dll": {}
+        }
+      },
+      "Lands.Domain/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Lands.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lands.Domain.dll": {}
         }
       }
     },
@@ -993,6 +1003,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Lands.Domain": "1.0.0",
           "MvvmLightLibsStd10": "5.4.1",
           "Newtonsoft.Json": "11.0.2",
           "Xam.Plugin.Connectivity": "3.2.0",
@@ -1005,6 +1016,15 @@
         },
         "runtime": {
           "bin/placeholder/Lands.dll": {}
+        }
+      },
+      "Lands.Domain/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Lands.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lands.Domain.dll": {}
         }
       }
     },
@@ -1562,6 +1582,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Lands.Domain": "1.0.0",
           "MvvmLightLibsStd10": "5.4.1",
           "Newtonsoft.Json": "11.0.2",
           "Xam.Plugin.Connectivity": "3.2.0",
@@ -1574,6 +1595,15 @@
         },
         "runtime": {
           "bin/placeholder/Lands.dll": {}
+        }
+      },
+      "Lands.Domain/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Lands.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lands.Domain.dll": {}
         }
       }
     },
@@ -1951,6 +1981,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Lands.Domain": "1.0.0",
           "MvvmLightLibsStd10": "5.4.1",
           "Newtonsoft.Json": "11.0.2",
           "Xam.Plugin.Connectivity": "3.2.0",
@@ -1963,6 +1994,15 @@
         },
         "runtime": {
           "bin/placeholder/Lands.dll": {}
+        }
+      },
+      "Lands.Domain/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Lands.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lands.Domain.dll": {}
         }
       }
     },
@@ -2519,6 +2559,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Lands.Domain": "1.0.0",
           "MvvmLightLibsStd10": "5.4.1",
           "Newtonsoft.Json": "11.0.2",
           "Xam.Plugin.Connectivity": "3.2.0",
@@ -2531,6 +2572,15 @@
         },
         "runtime": {
           "bin/placeholder/Lands.dll": {}
+        }
+      },
+      "Lands.Domain/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Lands.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lands.Domain.dll": {}
         }
       }
     },
@@ -3088,6 +3138,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Lands.Domain": "1.0.0",
           "MvvmLightLibsStd10": "5.4.1",
           "Newtonsoft.Json": "11.0.2",
           "Xam.Plugin.Connectivity": "3.2.0",
@@ -3100,6 +3151,15 @@
         },
         "runtime": {
           "bin/placeholder/Lands.dll": {}
+        }
+      },
+      "Lands.Domain/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Lands.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lands.Domain.dll": {}
         }
       }
     },
@@ -3656,6 +3716,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Lands.Domain": "1.0.0",
           "MvvmLightLibsStd10": "5.4.1",
           "Newtonsoft.Json": "11.0.2",
           "Xam.Plugin.Connectivity": "3.2.0",
@@ -3668,6 +3729,15 @@
         },
         "runtime": {
           "bin/placeholder/Lands.dll": {}
+        }
+      },
+      "Lands.Domain/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Lands.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lands.Domain.dll": {}
         }
       }
     },
@@ -4225,6 +4295,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Lands.Domain": "1.0.0",
           "MvvmLightLibsStd10": "5.4.1",
           "Newtonsoft.Json": "11.0.2",
           "Xam.Plugin.Connectivity": "3.2.0",
@@ -4237,6 +4308,15 @@
         },
         "runtime": {
           "bin/placeholder/Lands.dll": {}
+        }
+      },
+      "Lands.Domain/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Lands.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lands.Domain.dll": {}
         }
       }
     }
@@ -8231,6 +8311,11 @@
       "type": "project",
       "path": "../Lands/Lands.csproj",
       "msbuildProject": "../Lands/Lands.csproj"
+    },
+    "Lands.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../Lands.Domain/Lands.Domain.csproj",
+      "msbuildProject": "../../Lands.Domain/Lands.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
