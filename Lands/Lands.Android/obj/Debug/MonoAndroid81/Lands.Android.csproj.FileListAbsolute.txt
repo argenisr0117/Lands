@@ -4,6 +4,7 @@ C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\bin\Debug\com.company
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\bin\Debug\com.companyname.Lands-Signed.apk
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\bin\Debug\Lands.dll
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\bin\Debug\Lands.pdb
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\bin\Debug\es\Lands.resources.dll
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\Lands.Android.csprojAssemblyReference.cache
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\res.flag
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\Lands.Android.csproj.CoreCompileInputs.cache
@@ -145,8 +146,6 @@ C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Xaml.pdb
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\bin\Debug\Lands.Android.dll
-C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\bin\Debug\netstandard2.0\Lands.dll
-C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\bin\Debug\Lands.dll.mdb
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\linksrc\Lands.Android.dll.mdb
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\linksrc\FormsViewGroup.dll.mdb
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\linksrc\GalaSoft.MvvmLight.Platform.dll.mdb

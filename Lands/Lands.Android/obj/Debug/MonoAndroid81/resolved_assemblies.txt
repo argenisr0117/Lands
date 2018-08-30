@@ -83,3 +83,4 @@ C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\System.Web.Services.dll
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.XPath.XDocument.dll
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\android\assets\Mono.Security.dll
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands.Android\obj\Debug\MonoAndroid81\linksrc\es\Lands.resources.dll
