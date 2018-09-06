@@ -1,59 +1,72 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:ffimageloadingsvg="clr-namespace:FFImageLoading.Svg.Forms;assembly=FFImageLoading.Svg.Forms"
              x:Class="Lands.Views.LandsPage"
              BackgroundColor="LightGray"
              BindingContext="{Binding Main, Source={StaticResource Locator}}"
              Title="Lands">
-    <ContentPage.Content>
-        <StackLayout
-            BindingContext="{Binding Lands}">
-            <SearchBar
-                BackgroundColor="LightGray"
-                Text="{Binding Filter, Mode=TwoWay}"
-                Placeholder="Search..."
-                SearchCommand="{Binding SearchCommand}">
-            </SearchBar>
-            <ListView
-                BackgroundColor="LightGray"
-                HasUnevenRows="true"               
-                IsPullToRefreshEnabled="true"
-                IsRefreshing="{Binding IsRefreshing, Mode=TwoWay}"
-                ItemsSource="{Binding Lands}"
-                SeparatorVisibility="None"
-                RefreshCommand="{Binding RefreshCommand}">
-                <ListView.ItemTemplate>
-                    <DataTemplate>
-                        <ViewCell>
-                            <Frame
-                                CornerRadius="10"
-                                HasShadow="True"
-                                Margin="3">
-                                <Frame.GestureRecognizers>
-                                    <TapGestureRecognizer
-                                        Command="{Binding SelectLandCommand}">
-                                    </TapGestureRecognizer>
-                                </Frame.GestureRecognizers>
-                                <Grid>
-                                    <Grid.ColumnDefinitions>
-                                        <ColumnDefinition Width="Auto"/>
-                                        <ColumnDefinition Width="*"/>
-                                        <ColumnDefinition Width="Auto"/>
-                                    </Grid.ColumnDefinitions>
-                                    <StackLayout 
-                                        Grid.Column="1"
-                                        VerticalOptions="Center">
-                                        <Label 
-                                            FontAttributes="Bold"
-                                            FontSize="Medium" 
-                                            Text="{Binding Name}"
-                                            TextColor="Black">
-                                        </Label>
-                                        <Label 
-                                            Text="{Binding Capital}"
-                                            TextColor="Black">
-                                        </Label>
-                                    </StackLayout>
+            <ContentPage.Resources>
+                <ResourceDictionary>
+                    <ffimageloadingsvg:SvgImageSourceConverter 
+                        x:Key="SvgImageSourceConverter"/>
+                </ResourceDictionary>
+            </ContentPage.Resources>
+        <ContentPage.Content>   
+            <StackLayout
+                BindingContext="{Binding Lands}">
+                <SearchBar
+                    BackgroundColor="LightGray"
+                    HeightRequest="46"
+                    Text="{Binding Filter, Mode=TwoWay}"
+                    Placeholder="Search..."
+                    SearchCommand="{Binding SearchCommand}">
+                </SearchBar>
+                <ListView
+                    BackgroundColor="LightGray"
+                    HasUnevenRows="true"               
+                    IsPullToRefreshEnabled="true"
+                    IsRefreshing="{Binding IsRefreshing, Mode=TwoWay}"
+                    ItemsSource="{Binding Lands}"
+                    SeparatorVisibility="None"
+                    RefreshCommand="{Binding RefreshCommand}">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <Frame
+                                    CornerRadius="10"
+                                    HasShadow="True"
+                                    Margin="3">
+                                    <Frame.GestureRecognizers>
+                                        <TapGestureRecognizer
+                                            Command="{Binding SelectLandCommand}">
+                                        </TapGestureRecognizer>
+                                    </Frame.GestureRecognizers>
+                                    <Grid>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="Auto"/>
+                                            <ColumnDefinition Width="*"/>
+                                            <ColumnDefinition Width="Auto"/>
+                                        </Grid.ColumnDefinitions>
+                                        <ffimageloadingsvg:SvgCachedImage 
+                                            Grid.Column="0" 
+                                            WidthRequest="60" 
+                                            HeightRequest="30"                                                                          
+                                            Source="{Binding Flag,Converter={StaticResource SvgImageSourceConverter}}"/>
+                                        <StackLayout 
+                                            Grid.Column="1"
+                                            VerticalOptions="Center">
+                                            <Label 
+                                                FontAttributes="Bold"
+                                                FontSize="Medium" 
+                                                Text="{Binding Name}"
+                                                TextColor="Black">
+                                            </Label>
+                                            <Label 
+                                                Text="{Binding Capital}"
+                                                TextColor="Black">
+                                            </Label>
+                                        </StackLayout>
                                     <Image 
                                         Grid.Column="2"
                                         HorizontalOptions="End" 
