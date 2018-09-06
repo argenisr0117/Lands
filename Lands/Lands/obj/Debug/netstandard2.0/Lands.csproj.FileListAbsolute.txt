@@ -17,3 +17,4 @@ C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Land
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.dll
 C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.pdb
+C:\Users\Argenis-PC\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.csprojAssemblyReference.cache
